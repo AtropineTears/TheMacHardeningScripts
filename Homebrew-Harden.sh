@@ -17,8 +17,9 @@ xcode-select --install
 # TO-DO: Add --cert-status (needs OpenSSL) and return hash of file (export it)
 /usr/bin/ruby -e "$(curl --tlsv1.3 --ipv4 -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# https://docs.brew.sh/Manpage
 
-# Sets Env Variable For Homebrew to only use HTTPS
+# Sets Env Variable For Homebrew to only use HTTPS. May cause some downloads to fail
 export HOMEBREW_NO_INSECURE_REDIRECT=1
 
 # Requires SHA256 hash of homebrew cask packages
