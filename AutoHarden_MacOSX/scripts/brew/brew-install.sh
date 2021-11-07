@@ -2,7 +2,7 @@
 # Filename: /brew/brew-install.sh | Created 1 Sept 2021
 # Description: A Bash Script To Install Homebrew and xcode dev tools
 # Author: @AtropineTears
-# Company: @OpenNightshade
+# Company: @NightshadeLabs
 
 # Todo: Add --cert-status (needs OpenSSL) to homebrew install and return hash of file (export it)
 

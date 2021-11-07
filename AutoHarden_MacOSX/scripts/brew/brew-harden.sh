@@ -2,10 +2,10 @@
 # Path: /brew/brew-harden.sh | Created 1 Sept 2021
 # Description: A Bash Script To Harden and Secure Homebrew on Mac OS X
 # Author: @AtropineTears
-# Company: @OpenNightshade
+# Company: @NightshadeLabs
 
 #------METADATA------#
-echo 'Filename: brew-harden.sh | created by @OpenNightshade and @AtropineTears'
+echo 'Filename: brew-harden.sh | created by @NightshadeLabs and @AtropineTears'
 echo 'Notice: When using Homebrew, you should NEVER use sudo as it is not required. You should go by the least privelege available.'
 # Print out the homebrew log file
 echo 'HOMEBREW LOG PATH: ~/Library/Logs/Homebrew/'
