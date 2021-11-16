@@ -5,4 +5,5 @@
 # Company: @NightshadeLabs
 
 # [Design] Sets The Login Window Screen To Display "Secured by OpenNightshade"
-defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Last Secured by NightshadeLabs"
+# Turned Off for now
+# defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "Last Secured by NightshadeLabs"

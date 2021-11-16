@@ -1,1 +1,0 @@
-# use `declare -r`
